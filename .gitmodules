@@ -1,0 +1,6 @@
+[submodule "mobile-warga"]
+	path = mobile-warga
+	url = https://github.com/kaha-ayj/peteng.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/fadlizexrya/peteng-backend.git
